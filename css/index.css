@@ -1,0 +1,69 @@
+
+
+#sence{
+	width: 600px;
+	height: 600px;
+	margin:0 auto;
+/*	border:1px solid black;*/
+	background: black;
+	position: relative;
+	border-bottom:none;
+	border-right:none;
+}
+
+.block{
+	width:30px;
+	height:30px;
+	/*border-radius:8px;*/
+	float:left;
+	/*margin-right:1px;
+	margin-top:1px;*/
+	background-image:url(../img/bei2.png);
+}
+.tan{
+	width:330px;
+	height: 250px;
+	background: url(../img/logo.jpg);
+	position: absolute;
+	left:50%;
+	top:50%;
+	margin-left:-150px;
+	margin-top: -125px;
+}
+
+#shi{
+	width: 29px;
+	height: 29px;
+	background:url(../img/shi.png);
+}
+
+.begin{
+	position: absolute;
+	left: 50%;
+	right:50%;
+	margin-left: -300px;
+	margin-top: -601px;
+	width: 600px;
+	height: 600px;
+	background:black;
+	background-image:url(../img/title.jpg);
+	background-size:600px 600px;
+}
+.begin div{
+	width:255px;
+	height:150px;
+	position: absolute;
+	left:50%;
+	height:50%;
+	margin-left: -127px;
+	margin-top:160px;
+}
+
+#imgs{
+	width:160px;
+	height:160px;
+	position:absolute;
+	top:50%;
+	right:-6px;
+	margin-top:-60px;
+}
